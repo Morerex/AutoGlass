@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\AutoGlass\\layer-architecture-main\\Layer.Architecture.Infra.CrossCutting\\Layer.Architecture.Infra.CrossCutting.csproj": {}
+  },
+  "projects": {
+    "C:\\AutoGlass\\layer-architecture-main\\Layer.Architecture.Infra.CrossCutting\\Layer.Architecture.Infra.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\AutoGlass\\layer-architecture-main\\Layer.Architecture.Infra.CrossCutting\\Layer.Architecture.Infra.CrossCutting.csproj",
+        "projectName": "Layer.Architecture.Infra.CrossCutting",
+        "projectPath": "C:\\AutoGlass\\layer-architecture-main\\Layer.Architecture.Infra.CrossCutting\\Layer.Architecture.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\gabriel.moreira\\.nuget\\packages\\",
+        "outputPath": "C:\\AutoGlass\\layer-architecture-main\\Layer.Architecture.Infra.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gabriel.moreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

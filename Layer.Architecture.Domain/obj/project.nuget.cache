@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKSDfIhu+E1h8ZeM0UpAihed8qyQ2vflfN7WKHDMx69+QEgsyezYJGX/vaJ2MyJuSU9MJXy6OQhNuNUL/ssFzA==",
+  "success": true,
+  "projectFilePath": "C:\\AutoGlass\\layer-architecture-main\\Layer.Architecture.Domain\\AutoGlass.Architecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moreira\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\gabriel.moreira\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\gabriel.moreira\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.1\\fluentvalidation.aspnetcore.9.5.1.nupkg.sha512",
+    "C:\\Users\\gabriel.moreira\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.1\\fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
+    "C:\\Users\\gabriel.moreira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\gabriel.moreira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabriel.moreira\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

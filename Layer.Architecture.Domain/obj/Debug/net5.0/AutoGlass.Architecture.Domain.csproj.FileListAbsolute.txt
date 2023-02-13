@@ -1,0 +1,12 @@
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\bin\Debug\net5.0\AutoGlass.Architecture.Domain.deps.json
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\bin\Debug\net5.0\AutoGlass.Architecture.Domain.dll
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\bin\Debug\net5.0\AutoGlass.Architecture.Domain.pdb
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\obj\Debug\net5.0\AutoGlass.Architecture.Domain.csproj.AssemblyReference.cache
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\obj\Debug\net5.0\AutoGlass.Architecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\obj\Debug\net5.0\AutoGlass.Architecture.Domain.AssemblyInfoInputs.cache
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\obj\Debug\net5.0\AutoGlass.Architecture.Domain.AssemblyInfo.cs
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\obj\Debug\net5.0\AutoGlass.Architecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\obj\Debug\net5.0\AutoGlass.Architecture.Domain.dll
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\obj\Debug\net5.0\refint\AutoGlass.Architecture.Domain.dll
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\obj\Debug\net5.0\AutoGlass.Architecture.Domain.pdb
+C:\Users\gabriel.moreira\Desktop\layer-architecture-main\Layer.Architecture.Domain\obj\Debug\net5.0\ref\AutoGlass.Architecture.Domain.dll
